@@ -1,2 +1,2 @@
 # Batalha-Naval-KOTLIN
-Este foi projeto realizada na disciplina de Fundamentos de Programção em linguagem Kotlin. Este tem como objétivo replicar o famoso jogo Batalha Naval. 
+Este projeto realizado na disciplina de Fundamentos de Programção em linguagem Kotlin. E tem como objétivo replicar o famoso jogo Batalha Naval. 
